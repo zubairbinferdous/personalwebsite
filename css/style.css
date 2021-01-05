@@ -1,0 +1,107 @@
+
+body{
+    font-family: 'Noto Sans JP', sans-serif;
+    margin: 0;
+    
+}
+
+section{
+    height: 550px;
+}
+
+h1{
+    font-size: 48px;
+}
+h1{
+    font-size: 38px;
+}
+
+p{
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.color{
+    color: rgb(255, 145, 0);
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+    padding-left: 2%;
+    
+}
+
+.half-width img{
+    width: 100%;
+}
+
+.top-banner{
+   background-image: url("/images/banner.png");
+   background-repeat: no-repeat;
+   padding-bottom: 70px;
+
+}
+
+
+
+.button-top{
+    padding-top: 25px;
+}
+
+.link-hire{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon,tomato);
+    text-transform: uppercase;
+    padding: 10px 25px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: white;
+    
+}
+
+.dream-area{
+    background-image: url(/images/dream-bg.png);
+    background-repeat:no-repeat;
+    background-position: right;
+    padding-bottom: 70px;
+}
+
+.expreiencs{
+    clear: both;
+}
+
+.singel-ex{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 6px;
+    height: 70%;
+    padding-right:30px;
+    background-color: ivory;
+}
+
+.expreiencs{
+    background-image: url(/images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position:left;
+}
+
+#full-stack{
+    border-left: 6px solid;
+    border-image: linear-gradient(196deg, #ad0575, #e2f10b);
+    border-image-slice: 1;
+}
+
+
+#baby-stack{
+    border-left: 6px solid;
+    border-image: linear-gradient(196deg, #09ecb3, #131212);
+    border-image-slice: 1;
+}
+
+footer p{
+    font-size: 15px;
+    font-family: 'Noto Sans JP', sans-serif;
+    margin: 0;
+    text-align: center;
+    padding: 20px 0px;
+}
